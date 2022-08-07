@@ -1,0 +1,21 @@
+.header {
+    background-color: lightsalmon;
+}
+img {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#description {
+    text-align: center;
+}
+#IS-block {
+    font-size: 20px;
+}
+.IS-header {
+    background-color: lightpink;
+}
+.lists {
+    font-style: italic;
+}
