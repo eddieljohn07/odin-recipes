@@ -1,3 +1,24 @@
-#name {
+.name {
     background-color: lightcyan;
+}
+img {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#takoyaki {
+    text-align: center;
+}
+
+#food{
+    font-size: 20px;
+}
+
+.IS-header {
+    background-color: lightpink;
+}
+
+.lists {
+    font-style: italic;
 }
